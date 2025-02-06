@@ -1,5 +1,2 @@
-# My study journey as a QA Engineer
-
-## Here you will find my certificates and some other important documents.
-
-### contact me via e-mail: ericafanfiloquio@gmail.com
+# My study journey as a QA Enginee
+Here you will find my certificates and some other important documents.
